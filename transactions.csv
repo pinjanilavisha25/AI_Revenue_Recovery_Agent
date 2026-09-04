@@ -1,0 +1,51 @@
+customer_id,name,amount,failure_reason,days_overdue
+CUST_001,Rahul Sharma,4500,Card expired,3
+CUST_002,Priya Patel,12000,Insufficient funds,1
+CUST_003,Amit Verma,2500,Network timeout,5
+CUST_004,Sneha Gupta,8900,Checkout abandoned,0
+CUST_005,Rohit Kumar,1500,Card declined,2
+CUST_006,Ananya Singh,3400,Insufficient funds,4
+CUST_007,Vikram Malhotra,22000,Gateway timeout,1
+CUST_008,Neha Joshi,5600,Card expired,6
+CUST_009,Siddharth Rao,7800,Checkout abandoned,0
+CUST_010,Pooja Nair,1250,Invalid CVV,2
+CUST_011,Karan Mehta,45000,Insufficient funds,7
+CUST_012,Divya Pillai,9900,Network error,3
+CUST_013,Manish Tiwari,3200,Card expired,1
+CUST_014,Ritu Sen,6700,Checkout abandoned,0
+CUST_015,Arjun Kapoor,15000,Bank server down,2
+CUST_016,Swati Deshmukh,4100,Insufficient funds,5
+CUST_017,Deepak Chawla,18900,Card declined,4
+CUST_018,Megha Kulkarni,2700,Network timeout,1
+CUST_019,Abhishek Roy,8200,Card expired,8
+CUST_020,Tanvi Kothari,13400,Checkout abandoned,0
+CUST_021,Nikhil Joshi,5500,Insufficient funds,2
+CUST_022,Shreya Banerjee,9200,Gateway timeout,3
+CUST_023,Varun Nambiar,31000,Card declined,6
+CUST_024,Kritika Saxena,4800,Network error,1
+CUST_025,Aditya Verma,6200,Card expired,4
+CUST_026,Payal Agarwal,11000,Insufficient funds,2
+CUST_027,Sandeep Kumar,2300,Checkout abandoned,0
+CUST_028,Preeti Sharma,7500,Bank server down,5
+CUST_029,Harshvardhan Rao,19000,Card declined,3
+CUST_030,Sonali Patil,3900,Network timeout,1
+CUST_031,Rajesh Iyer,14500,Insufficient funds,7
+CUST_032,Priyanka Das,8800,Card expired,2
+CUST_033,Alok Mukherjee,6700,Checkout abandoned,0
+CUST_034,Jyoti Singh,9500,Gateway timeout,4
+CUST_035,Suresh Menon,21000,Card declined,5
+CUST_036,Deepika Padukone,4300,Network error,1
+CUST_037,Ranbir Kapoor,12800,Insufficient funds,3
+CUST_038,Alia Bhatt,7400,Card expired,6
+CUST_039,Vicky Kaushal,15600,Checkout abandoned,0
+CUST_040,Katrina Kaif,3100,Bank server down,2
+CUST_041,Shahid Kapoor,16700,Card declined,4
+CUST_042,Kiara Advani,5900,Insufficient funds,1
+CUST_043,Siddharth Malhotra,24000,Gateway timeout,8
+CUST_044,Shraddha Kapoor,8100,Network timeout,2
+CUST_045,Ayushmann Khurrana,6500,Card expired,3
+CUST_046,Bhumi Pednekar,9400,Checkout abandoned,0
+CUST_047,Rajkummar Rao,11200,Insufficient funds,5
+CUST_048,Sanya Malhotra,4600,Card declined,1
+CUST_049,Kartik Aaryan,17500,Network error,4
+CUST_050,Ananya Pandey,3300,Bank server down,2
